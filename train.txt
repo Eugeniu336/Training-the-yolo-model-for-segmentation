@@ -1,0 +1,5 @@
+data/images/train/Harta 11.tif
+data/images/train/Harta 21.tif
+data/images/train/Harta 83.tif
+data/images/train/Harta 84.tif
+data/images/train/Harta 57.tif

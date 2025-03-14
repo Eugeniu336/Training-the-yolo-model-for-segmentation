@@ -1,0 +1,5 @@
+names:
+  0: '1'
+path: C:\Users\user\PycharmProjects\PythonProject23
+train: C:\Users\user\PycharmProjects\PythonProject23\train.txt
+val: C:\Users\user\PycharmProjects\PythonProject23\val.txt
